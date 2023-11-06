@@ -18,4 +18,4 @@
   csp.script_src: ['unsafe-eval','unsafe-inline','self']
   ```
 
-  # WARNING - Turning of CSP is not recommended and can lead to code injections and othe vulnerabilities.
+  # WARNING - Turning of CSP is not recommended and can lead to code injections and other vulnerabilities.
